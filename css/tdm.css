@@ -1,0 +1,55 @@
+*{
+	padding: 0;
+}
+h3{
+	text-align: left;
+	margin-bottom: 3%;
+}
+
+#f1 label{
+	width: 200px;
+}
+#f1 input {
+    width: 375px;
+    padding: 5px 5px;
+    margin-bottom: 10px;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+#f2 label{
+	width: 300px;
+    border: none;
+}
+
+#f2 img	{
+	width: 25px;
+	height: 25px;
+	margin-left: 260px;
+}
+#f2 input {
+	width: 285px;
+    padding: 5px 5px;
+    margin-bottom: 10px;
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+#btnKembali{
+    background-color: #049372;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+#btnKirim {
+    background-color: #049372;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}

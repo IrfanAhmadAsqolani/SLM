@@ -1,0 +1,25 @@
+body{
+    padding: 0; margin: 0;
+}
+
+input[type=text], input[type=password], input[type=email] {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    display: inline-block;
+    align-content: right;
+    border-radius: 10px;
+}
+
+.login-container{
+    max-width: 460px;
+    margin: auto;
+    padding-top: 10%;
+}
+
+.gantipw-container{
+    max-width: 460px;
+    margin: auto;
+    padding-top: 8%;
+}
+
